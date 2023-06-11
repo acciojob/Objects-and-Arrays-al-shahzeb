@@ -19,4 +19,7 @@ players.forEach((player) => {
 	team1.push(player);
 })
 
-var cap1 = person;
+var cap1 = {
+	name:"John Doe",
+	age: 80
+};
